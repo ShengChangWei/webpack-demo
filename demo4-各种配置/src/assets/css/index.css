@@ -1,0 +1,9 @@
+body {
+    background-color: gainsboro;
+    
+}
+#app {
+    width: 200px;
+    height: 200px;
+    background: url('../images/bgc.jpg');
+}
